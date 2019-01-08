@@ -1,0 +1,4 @@
+# format: [unit] [constant]
+Celsius 0
+Fahrenheit 32
+Kelvin 273.15

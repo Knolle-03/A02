@@ -1,0 +1,12 @@
+# ratio for unit conversion to meter
+# format: [unit] [ratio]
+
+mm 0.001 
+cm 0.01
+m 1.0
+km 1000.0
+in 0.0254
+ft 0.3048
+yd 0.9144
+mile 1609.344
+potrzebie 0.0022633484517438173216473
